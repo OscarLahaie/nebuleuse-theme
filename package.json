@@ -1,0 +1,12 @@
+{
+    "title": "Nebuleuse",
+    "name": "nebuleuse-theme",
+    "description": "Built-in dark theme for Brackets",
+    "version": "1.0.0",
+    "author": "Oscar Lahaie <oscarlahaie83@gmail.com>",
+    "theme": {
+        "file": "main.css",
+        "dark": true
+    },
+    "keywords": ["theme", "nebuleuse", "dark", "stars"]
+}
